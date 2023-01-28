@@ -6,6 +6,5 @@ The Daisyworld model was created by James E. Lovelock and Andrew J. Watson in 19
 the climate. The objective is to and out whether steady states are reached despite the continuous forcing the planet is subjected to and if so, under which conditions it happens.
 
 # References
-[1] ANDREW J. WATSON and JAMES E. LOVELOCK. Biological homeostasis of the global environment: the parable of daisyworld. Tellus B, 35B(4):284{289, 1983.
-
-[2] JAMES E. LOVELOCK. Gaia: A New Look at Life on Earth. Oxford University Press, 1979.
+[1] ANDREW J. WATSON and JAMES E. LOVELOCK. Biological homeostasis of the global environment: the parable of daisyworld. *Tellus B*, 35B(4):284{289, 1983.
+[2] JAMES E. LOVELOCK. *Gaia: A New Look at Life on Earth.* Oxford University Press, 1979.
